@@ -1,34 +1,81 @@
-<!-- Banner -->
+<!-- Banner Typing Effect -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=AI%20Engineer%20%7C%20Computer%20Vision%20Specialist%20%7C%20LangChain%20Developer&font=Fira%20Code&center=true&width=500&height=50&duration=3000&pause=500" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=AI+Engineer+%7C+Computer+Vision+Specialist+%7C+Generative+AI+Explorer;Turning+AI+Ideas+into+Impactful+Solutions" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Ahmed Ghida</h1>
 
 <p align="center">
-  🚀 Computer Vision Engineer & AI Developer (DEBI Graduate) 🇪🇬 <br>
-  🧠 Building real-world AI systems that turn research into results — fast, reliable, and production-ready <br>
+  🎯 Computer Vision Engineer & AI Developer<br>
+  🧠 LangChain + RAG Enthusiast • DEBI Scholar 🇪🇬<br>
   🌍 Open to relocation & remote opportunities
 </p>
 
 ---
 
-### 🧠 About Me
+### 🚀 About Me
 
-- 🛠️ Specialized in **Computer Vision**: Detection, Segmentation, Tracking, Pose Estimation
-- 🔭 Currently learning **Generative AI**: LangChain, RAG, LangGraph, OpenAI API
-- 👷‍♂️ Created real-time PPE Monitoring System using YOLOv8 + Pose Estimation + ReID
-- 📄 Built high-accuracy Text Orientation Classifier using ResNet50 (99% accuracy)
-- 📊 Developed interactive dashboards with Streamlit & containerized with Docker
-- 🎓 Proud graduate of the prestigious **Digital Egypt Builders Initiative (DEBI)**
-- 📬 Contact: [LinkedIn](https://www.linkedin.com/in/ahmed-ghida/) | [Upwork](https://www.upwork.com/freelancers/~01d227c73dcf14401b) | ahmedghida1@gmail.com
+I'm a hands-on AI Engineer with a strong focus on **Computer Vision**, **OCR**, and **Generative AI**. I bring real-world AI into production — building systems that **detect, classify, generate, and automate**, whether it's in factories, construction sites, or tax offices.
+
+**Currently mastering:** LangChain • LangGraph • LLMOps • RAG Pipelines  
+**Long-term vision:** Build AI tools that reduce human effort and boost business intelligence.
 
 ---
 
-### 🛠️ Tech Stack
+### 🧠 Core Skills
+
+- 🔍 **Computer Vision**: YOLOv8, ResNet50, pose estimation, segmentation, tracking  
+- 📄 **OCR & Document AI**: EasyOCR, Tesseract, PDF parsing, layout analysis  
+- 🤖 **Generative AI**: LangChain, LangGraph, OpenAI API, RAG, Prompt Engineering  
+- ⚙️ **Deployment**: Streamlit, Docker, FastAPI, ChromaDB  
+- 📈 **Dashboards**: Real-time analytics + visualization with Streamlit
+
+---
+
+### 💼 Featured Projects
+
+#### 🦺 PPE Monitoring System *(Client Project)*
+> Real-time safety compliance system using **YOLOv8**, **pose estimation**, and **StrongSORT**  
+> Checks helmet-on-head logic, counts safe/unsafe workers, and visualizes with Streamlit dashboard  
+> Deployed via Docker | Used for construction site analytics
+
+#### 📄 Tax Law RAG System *(Open Source)*
+> End-to-end Retrieval-Augmented Generation pipeline for Egypt’s Income Tax law  
+> 📦 OCR → ChromaDB Vector Store → LangChain Retrieval → Streamlit QA Interface  
+🔗 [Repo](https://github.com/ahmedghida/Egyptian-Tax-Navigator)
+
+#### 🔁 AI Proposal Generator with Self Review *(Open Source)*
+> Reflective LangGraph agent that creates professional proposals and iteratively improves them  
+> Evaluates tone, clarity, repetition & structure  
+🔗 [Repo](https://github.com/ahmedghida/AI-Proposal-Generator-with-Self-Review)
+
+#### 📚 Document Automation Pipeline *(Client Project)*
+> Classifies academic PDF pages by type (e.g. abstract, references) & orientation (0–270°)  
+> Scraping → Image conversion → TensorFlow classifier (99% accuracy)
+
+#### 🧠 Multitask Personal AI Assistant *(Open Source)*
+> Handles Q&A, summarization, translation, recommendations via LangChain RAG routing  
+> Built with prompt templates, memory & Streamlit  
+🔗 [Repo](https://github.com/ahmedghida/Personal-Multitask-Assistant)
+
+#### 🕳️ Crack Detection & Area Measurement *(Client Project)*
+> Pixel-wise crack segmentation with area calculation in mm²  
+> Generates overlay image + CSV summary for engineering reports
+
+#### 🧾 German Invoice OCR *(Client Project)*
+> Extracts key fields (invoice number, total, date, items) from scanned German invoices using OCR  
+> Handles multilingual noise, table parsing & field mapping
+
+#### 🧩 Icon Detection & Similarity *(Client Project)*
+> YOLOv8-based icon detector + ResNet50 feature extractor  
+> Matches icons by visual similarity using cosine distance & OCR fallback
+
+---
+
+### ⚒️ Tools & Tech
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,docker,opencv,fastapi,streamlit,github,vscode&theme=light" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,docker,opencv,streamlit,fastapi,git,vscode&theme=light"/>
 </p>
 
 <p align="center">
@@ -37,49 +84,21 @@
 
 ---
 
-### 🚀 Featured Projects
-
-#### 🧠 Smart Personal AI Assistant  
-> LangChain-powered app with memory, multi-task routing & Streamlit interface  
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjY5dWZ1YThzaWgxZDR2b3A1YmFkdXllZzJvZjAwZWpvZ2hva2I2bCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xUOxf48ikzPfoz4Vo8/giphy.gif" width="400"/>
-
----
-
-#### 🦺 Real-Time PPE Compliance System  
-> Detects helmets & vests, verifies head placement using YOLOv8 + Pose Estimation + StrongSORT  
-> Deployed with Streamlit dashboard & Docker  
-![PPE Demo](https://github.com/ahmed-ghida/assets/blob/main/ppe_demo.gif)
-
----
-
-#### 🏛️ Egyptian Tax Law RAG System  
-> OCR to vector DB → QA with LangChain → Streamlit app  
-> Helps users query tax law using natural language  
-> Built using: EasyOCR, ChromaDB, LangChain, Streamlit
-
----
-
-#### 🔄 PDF Orientation Classifier  
-> Classifies text images into 0°, 90°, 180°, 270° using ResNet50  
-> Achieved 99% test accuracy  
-![PDF Classifier](https://github.com/ahmed-ghida/assets/blob/main/pdf_orientation.gif)
-
----
-
-### 📊 GitHub Stats
+### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmed-ghida&show_icons=true&theme=tokyonight&hide_border=true" width="45%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed-ghida&layout=compact&theme=tokyonight&hide_border=true" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmed-ghida&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed-ghida&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
 </p>
 
 ---
 
-### 🌟 Let's Connect & Collaborate
+### 🔗 Let’s Connect
 
-- 💼 Open to freelance, full-time, or contract-based AI roles
-- 🔄 Eager to work on applied AI, real-time vision systems, and generative AI tools
-- 🌍 Based in Egypt – open to global relocation
+- 💼 [Upwork Profile](https://www.upwork.com/freelancers/~0127879476cc72d159)
+- 👔 [LinkedIn]([https://www.linkedin.com/in/ahmed-ghida/](https://www.linkedin.com/in/ahmedghida/))
+- 📩 Email: **ahmedghida326@gmail.com**
+- 🌍 Location: Egypt (open to relocate globally)
 
 ---
 
