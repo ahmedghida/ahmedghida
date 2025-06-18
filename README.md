@@ -88,7 +88,7 @@ I'm a hands-on AI Engineer with a strong focus on **Computer Vision**, **OCR**, 
 ### 🔗 Let’s Connect
 
 - 💼 [Upwork Profile](https://www.upwork.com/freelancers/~0127879476cc72d159)
-- 👔 [LinkedIn]([https://www.linkedin.com/in/ahmedghida/](https://www.linkedin.com/in/ahmedghida/))
+- 👔 [LinkedIn](https://www.linkedin.com/in/ahmedghida/))
 - 📩 Email: **ahmedghida326@gmail.com**
 - 🌍 Location: Egypt (open to relocate globally)
 
