@@ -82,14 +82,6 @@ I'm a hands-on AI Engineer with a strong focus on **Computer Vision**, **OCR**, 
   <img src="https://skillicons.dev/icons?i=langchain,openai&theme=light" />
 </p>
 
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmedghida&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedghida&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
-</p>
 
 ---
 
